@@ -27,6 +27,11 @@ public class FXMLDocumentController implements Initializable {
         label.setText("Hello World!");
     }
     
+     @FXML
+    private void prompUser() {
+
+    }
+    
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         // TODO
