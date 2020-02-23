@@ -28,7 +28,7 @@ public class FXMLDocumentController implements Initializable {
     }
     
      @FXML
-    private void prompUser() {
+    private void promptUser() {
 
     }
     
